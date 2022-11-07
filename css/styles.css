@@ -94,3 +94,25 @@ ul li {
  
   }
 
+.third-section {
+    font-size: 10px;
+
+}
+
+.image-footer {
+    position: relative;
+}
+
+.image-footer img{
+   width: 150px;
+   height: 100px;
+
+}
+
+.image-footer span {
+    color: white;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 8px;
+    font-size: 12px;
+}
