@@ -31,12 +31,12 @@ header {
     
 }
 
-.header-section p {
+.start p {
     font-size: 10px;
 
 }
 
-.header-section a {
+.start a {
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@ ul li {
     margin-left: -30px;
 }
 
-#underlined-text {
+.underlined-text {
     background-color: yellow;
 }
 
