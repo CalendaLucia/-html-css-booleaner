@@ -1,4 +1,4 @@
-# -html-css-booleaner
+#html-css-booleaner
 exercice for Boolean school
 
 Per i tutor:
